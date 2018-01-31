@@ -1,0 +1,24 @@
+
+Peptide Spectrum Matching SummaryProtein(s)	Protein(s) to which the peptide can be attached.
+Position	Position of the peptide in the protein sequence(s).
+AAs Before	The amino acids before the sequence.
+Sequence	The identified sequence of amino acids.
+AAs After	The amino acids after the sequence.
+Modified Sequence	The amino acids sequence annotated with variable modifications.
+Fixed Modifications	The fixed modifications.
+Variable Modifications	The variable modifications.
+D-score	D-score for variable PTM localization.
+Probabilistic PTM score	The probabilistic score (e.g. A-score or PhosphoRS) used for variable PTM localization.
+Localization Confidence	The confidence in variable PTM localization.
+Spectrum File	The spectrum file.
+Spectrum Title	The title of the spectrum.
+Spectrum Scan Number	The spectrum scan number.
+RT	Retention time as provided in the spectrum file.
+m/z	Measured m/z.
+Measured Charge	The charge as given in the spectrum file.
+Identification Charge	The charge as inferred by the search engine.
+Theoretical Mass	The theoretical mass of the peptide.
+Isotope Number	The isotope number targetted by the instrument.
+Precursor m/z Error [ppm]	The precursor m/z matching error in ppm.
+Confidence [%]	Confidence in percent associated to the retained PSM.
+Validation	Indicates the validation level of the retained PSM.
